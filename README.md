@@ -23,3 +23,7 @@ Supporting materials: ~2000+ downloads via Zenodo (OER).
 - Automated PR review workflows
 - Data pipeline validation
 - Integration with external APIs (LLMs, research tools)
+
+## External Resources
+- IGK1 Materials (Zenodo): https://zenodo.org/records/10630340
+- IGK2 Materials (Zenodo): https://zenodo.org/records/15529384
